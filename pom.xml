@@ -40,7 +40,7 @@
     <version>4.0.24-SNAPSHOT</version>
 
     <properties>
-        <tomcat.version>7.0.77</tomcat.version>
+        <tomcat.version>7.0.107</tomcat.version>
         <slf4j-api.version>1.7.5</slf4j-api.version>
         <jtango.ver>1.0.6</jtango.ver>
         <github.organization>hereon-wpi</github.organization>
